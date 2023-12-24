@@ -1,0 +1,4 @@
+{
+  "port": "3100",
+  "mongodbUrl": "mongodb://127.0.0.1:27017/digizone"
+}
